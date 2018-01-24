@@ -12,3 +12,6 @@ Please don't blame me for the UI. It's the same as [overcast.fm](http://overcast
 
 ## Linux? Windows?
 If there is demand for a Linux or Windows version, please open up an [issue](https://github.com/esthor/overcast-electron-app-mac/issues) and I will get on it. :)
+
+## Shoutouts
+Thanks to Jia Hao for making [nativefier](https://github.com/jiahaog/nativefier), an easy CLI for wrapping web apps in electron for native desktop environments.
