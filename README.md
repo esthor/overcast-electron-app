@@ -1,5 +1,6 @@
 # overcast-electron-app-mac
 A simple (unofficial) overcast.fm podcast app for macOS.
+
 [CLICK HERE FOR MY POST ABOUT THIS APP](https://medium.com/unhype/i-made-a-podcast-app-for-mac-in-less-than-an-hour-695736895a9f)
 
 ## Installation (Mac)
