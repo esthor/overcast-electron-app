@@ -1,4 +1,4 @@
-# overcast-electron-app-mac
+# overcast-electron-app
 A simple (unofficial) overcast.fm podcast app for macOS and Linux.
 
 **[Overcast.app](https://github.com/esthor/overcast-electron-app-mac/releases/download/0.1/overcast-electron-app-mac.0.1.zip)**
