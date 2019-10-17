@@ -13,7 +13,10 @@ A simple (unofficial) overcast.fm podcast app for macOS and Linux.
 
 ## Installation (Linux)
 **[overcast-linux-x64](https://github.com/esthor/overcast-electron-app-mac/tree/master/overcast-linux-x64)**
-1. Just download/clone the `overcast-linux-x64` and open it up!
+1. Download/clone the `overcast-linux-x64`
+1. `cd` into the folder
+1. Run `sudo chhmod +x *` in the folder (this updates the permissions so the app can run)
+1. Then just run `./overcast` in the folder. Voila!
 
 ## Reason for this app?
 I was tired of having to hunt down a browser window/tab with [overcast.fm](http://overcast.fm) or only listen from iOS. After Instacast went under, Overcast became my preferred podcast app for the last couple of years. The only drawback was there is no native mac app from the company. It was also a nice excuse to wrap a simple webapp for practical daily use. Maybe others can find it useful.
