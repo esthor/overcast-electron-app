@@ -1,0 +1,2 @@
+# Ignore raw linux app (it can be over 100MB, which GitHub does not like)
+overcast-linux-x64/
